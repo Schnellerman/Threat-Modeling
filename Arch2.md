@@ -1,4 +1,4 @@
-```m
+```mermaid
 graph TB
     %% Настройка стилей для зон безопасности
     classDef untrusted fill:#ffcccc,stroke:#cc0000,stroke-width:2px;
